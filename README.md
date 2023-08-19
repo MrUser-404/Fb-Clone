@@ -8,6 +8,7 @@ pip install requests
 pip install bs4
 git clone https://github.com/MrUser-404/Fb-Clone
 cd Fb-Clone
+termux-setup-storage
 python clone.py
 
 Password: Clone beta
